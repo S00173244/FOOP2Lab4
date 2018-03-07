@@ -132,6 +132,7 @@ namespace LabSheet4Q6_Q10
             foreach (var item in query5b)
             {
                 Console.WriteLine(item);
+                //
             }
         }
 
